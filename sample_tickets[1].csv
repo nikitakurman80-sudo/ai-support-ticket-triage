@@ -1,0 +1,11 @@
+Ticket_ID,Customer,Subject,Description,Expected_Category,Expected_Priority
+T001,NorthStar Ltd,CRM unavailable,All 85 employees cannot access the CRM. Sales and order processing have stopped.,Availability,P1
+T002,BrightTech,Login failure,One employee receives an authentication error when logging into CRM. Other employees can log in.,Authentication,P3
+T003,Maple Retail,Duplicate orders,The API integration is creating duplicate orders in the CRM. Billing staff are reviewing affected records.,Integration,P2
+T004,Nova Group,New sales report,We would like a new monthly sales report with filters by region and account manager.,Feature Request,P4
+T005,Eastline Inc,CSV import failure,A CSV import failed for 200 customer records. The team needs the records before tomorrow.,Data Migration,P2
+T006,BluePeak,Expired API token,Our integration stopped after an API access token expired. We need guidance on renewing it.,Authentication,P3
+T007,ShopBridge,Missing Shopify orders,Around 15 percent of Shopify orders are missing in the CRM and fulfillment is affected.,Integration,P1
+T008,ClearWave,Slow CRM performance,CRM pages take 15 seconds to load for 40 users during business hours.,Performance,P2
+T009,Sunrise Co,Dashboard configuration,Could you explain how to add a custom widget to our sales dashboard?,How-To,P4
+T010,Riverstone,Webhook server error,Our order webhook requests receive HTTP 500 errors and new orders are delayed.,Integration,P2
