@@ -41,7 +41,7 @@ IMPORTANT:
 - When impact is unclear, use the lowest priority justified by the evidence and flag uncertainty in the response.
 - Never promise resolution times or claim an investigation has started unless confirmed.
 - All responses require human review before sending.
--Expired API tokens must be categorized as Authentication, even when an integration is affected.
+- Expired API tokens must be categorized as Authentication, even when an integration is affected.
 
 Return EXACTLY four lines:
 Category: <category>
